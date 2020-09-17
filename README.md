@@ -8,4 +8,4 @@ This is a companion frontend application to be used with https://github.com/moha
 - CodeReady Containers 
 - Jenkins and Tekton
 
-for full workshop and video series, please refer to the [Workshop Page on Github](https://github.com/mohaghighi/Covid19-Web-Application.git)
+for full workshop and video series, please refer to the [Workshop Page on Github](https://github.com/IBM-Developer-Advocacy-India/covid19-web-application)
